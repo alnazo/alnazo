@@ -53,4 +53,4 @@ Y en mi equipo de sobremesa con: [![Windows 10](https://img.shields.io/badge/Win
 
 [![Twitter](https://img.shields.io/badge/Twitter-@antonio3_96-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/antonio3_96)
 [![Twitch](https://img.shields.io/badge/Twitch-alnazo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/alnazo)
-[![TikTok](https://img.shields.io/badge/TikTok-@antonio3_96-ADD8E6?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@antonio3_96)
+[![TikTok](https://img.shields.io/badge/TikTok-@antonio3_96-C32645?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@antonio3_96)
