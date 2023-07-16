@@ -15,9 +15,9 @@ Me gusta la programacion ya que realizado la accion como desarrollador FullStack
 &nbsp;
 
 *Mis estudios actuales son:*
- - Tecnico en Sistemas Microinformaticos y Redes [![SMR](https://img.shields.io/badge/-SMR-red)]()
- - Tecnico de Instalaciones de Telecomunicaciones [![IT](https://img.shields.io/badge/-IT-635252)]()
- - Tecnico superior de Sistemas de Telecomunicaciones e Informáticos [![STI](https://img.shields.io/badge/-STI-blue)]()
+ - Tecnico en Sistemas Microinformaticos y Redes [![SMR](https://img.shields.io/badge/-SMR-red)](./README.md)
+ - Tecnico de Instalaciones de Telecomunicaciones [![IT](https://img.shields.io/badge/-IT-635252)](./README.md)
+ - Tecnico superior de Sistemas de Telecomunicaciones e Informáticos [![STI](https://img.shields.io/badge/-STI-blue)](./README.md)
 
 &nbsp;
 
