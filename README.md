@@ -2,7 +2,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/alnazo?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/alnazo?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Antonio3_96?style=social)](https://twitter.com/Antonio3_96)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Antonio3_96?style=social)](https://x.com/Antonio3_96)
 [![Youtube Followers](https://img.shields.io/youtube/channel/subscribers/UCo7yVjVEqvItGadiTBMjhGg?style=social)](https://www.youtube.com/@alnazo)
 [![Twitch Status](https://img.shields.io/twitch/status/alnazo?style=social)](https://twitch.com/alnazo)
 
@@ -12,17 +12,15 @@ Desde pequeño `(unos 6 años)` siempre he sido muy curioso con practicamente to
 
 Me gusta la programacion ya que realizado la accion como desarrollador FullStack con Laravel un framework de PHP, y como tecnico de red y equipos locales durante un año y medio.
 
+Tambien he estado programando en Java mientras estudiaba en el grado superior de DAM mientras hacia mi curso DUAL y las practicas de empresas.
+
 &nbsp;
 
-*Mis estudios actuales son:*
+*Mis estudios finalizados son:*
  - Tecnico en Sistemas Microinformaticos y Redes [![SMR](https://img.shields.io/badge/-SMR-red)](./README.md)
  - Tecnico de Instalaciones de Telecomunicaciones [![IT](https://img.shields.io/badge/-IT-635252)](./README.md)
  - Tecnico superior de Sistemas de Telecomunicaciones e Informáticos [![STI](https://img.shields.io/badge/-STI-blue)](./README.md)
-
-&nbsp;
-
-Y actualmente estoy estudiando el segundo curso de:
- - Tecnico Superior de Desarrollo de Aplicaciones Multiplataforma [![DAM](https://img.shields.io/badge/-DAM-orange)]()
+ - Tecnico Superior de Desarrollo de Aplicaciones Multiplataforma [![DAM](https://img.shields.io/badge/-DAM-orange)](./README.md)
 
 &nbsp;
 
