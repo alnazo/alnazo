@@ -2,9 +2,6 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/alnazo?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/alnazo?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Antonio3_96?style=social)](https://x.com/Antonio3_96)
-[![Youtube Followers](https://img.shields.io/youtube/channel/subscribers/UCo7yVjVEqvItGadiTBMjhGg?style=social)](https://www.youtube.com/@alnazo)
-[![Twitch Status](https://img.shields.io/twitch/status/alnazo?style=social)](https://twitch.com/alnazo)
 
 Soy una persona que es muy curiosa y cabezota ante los problemas a resolver, ya que no me rindo cuando me topo con alguno.
 
@@ -59,9 +56,3 @@ Y en mi equipo de sobremesa con:
 [![NetBeansIDE](https://img.shields.io/badge/NetBeans_IDE-2D8BE1.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=A8CD37&labelColor=E31F5B)]()
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)]()
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]()
-
-### Encuéntrame:
-
-[![Twitter](https://img.shields.io/badge/Twitter-@antonio3_96-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/antonio3_96)
-[![Twitch](https://img.shields.io/badge/Twitch-alnazo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/alnazo)
-[![TikTok](https://img.shields.io/badge/TikTok-@antonio3_96-C32645?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@antonio3_96)
